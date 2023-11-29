@@ -1,0 +1,11 @@
+/*
+Theme Name: CSS Blog Theme
+Description: 
+Author: Bert Bos
+Version: 1.0
+
+Note that this file isn't actually used, except for the lines
+above. The style sheet below is hardcoded in head.inc.
+*/
+
+@import "/Style/CSS/w3c-2010/main";
